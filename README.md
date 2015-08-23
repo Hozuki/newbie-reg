@@ -7,7 +7,7 @@ of the lines, they are [Bootstrap](http://getbootstrap.com/).
 
 ## For Users
 
-Coming soon.
+[简体中文说明书](/doc/manual.zh-cn.md)
 
 ## For Developers
 
