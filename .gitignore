@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea
+/logic/data/
+/logic/sql/
+/pma/
+*obselete/
+config.php

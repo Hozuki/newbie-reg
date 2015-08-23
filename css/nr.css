@@ -1,0 +1,29 @@
+* {
+    font-family: "helvetica neue", Helvetica, "Hiragino Sans GB", STXihei, "Microsoft Yahei", sans-serif;
+}
+
+.initially-hidden {
+    display: none;
+}
+
+#top-message {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+#feedback-table th {
+    text-align: right;
+}
+
+.floating-left {
+    float: left;
+}
+
+.floating-right {
+    float: right;
+}
+
+.margin-top-30 {
+    margin-top: 30px;
+}
