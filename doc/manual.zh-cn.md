@@ -1,5 +1,11 @@
 # newbie-reg 使用手册
 
+手册分为3个部分：
+
+1. 共通线
+2. 新生线
+3. 管理者线
+
 ## 共通线
 
 打开部署的地址，会自动跳到角色选择界面。
@@ -17,10 +23,10 @@
 
 **如果一切正常**，您会看到确认欢迎信息，说明您登记成功。从返回的列表中您可以知道：
 
-- 自己的学号
-- 自己的宿舍号
-- 自己的班级号
-- 自己班的班主任姓名
+- 您的学号
+- 您的宿舍号
+- 您的班级号
+- 您班的班主任姓名
 - 系辅导员的联系方式
 
 **如果您填写的姓名和记录中的不一致**（例如，录入时写错了），则会显示一个确认页面。
@@ -51,19 +57,21 @@
 
 选择 .csv 文件，单击“上传”上传文件。请确认使用的是总表的数据，其他的格式会报错。
 
-[样板 .csv 数据文件](/doc/collected-sample.csv)（请使用 Excel 编辑和保存）
+[样板总表 CSV 数据文件](//github.com/Hozuki/newbie-reg/raw/master/doc/collected-sample.csv)（右键下载目标；请使用 Excel 编辑和保存）
 
 [不懂 CSV 文件？](http://jingyan.baidu.com/article/4b07be3c6f162448b380f384.html)
 
 ### 导入反馈表 CSV 数据
 
-[样板 .csv 数据文件](/doc/feedback-sample.csv)（请使用 Excel 编辑和保存）
+选择 .csv 文件，单击“上传”上传文件。请确认使用的是反馈表的数据，其他的格式会报错。
+
+[样板反馈表 CSV 数据文件](//github.com/Hozuki/newbie-reg/raw/master/doc/feedback-sample.csv)（右键下载目标；请使用 Excel 编辑和保存）
 
 [不懂 CSV 文件？](http://jingyan.baidu.com/article/4b07be3c6f162448b380f384.html)
 
 ### 清除登记记录
 
-**<span style="color: red;">警告：此操作十分危险！</span>**
+**警告：此操作十分危险！**
 
 清空所有的现场登记记录。
 
